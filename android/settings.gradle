@@ -1,0 +1,3 @@
+rootProject.name = 'SmartVoiceReact'
+
+include ':app'
