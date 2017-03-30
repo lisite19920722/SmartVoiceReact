@@ -6,4 +6,4 @@ use react-native start<br>
 use npm instead of cnpm
 
 # Clean iOS Cache
-delete ios/build/ModuleCache folder
+Delete ios/build/ModuleCache folder
