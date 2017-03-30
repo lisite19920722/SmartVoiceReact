@@ -4,3 +4,6 @@ A smart app(v4.0) which can automatically recognize one's voice using react nati
 # About 404 Bug
 use react-native start<br>
 use npm instead of cnpm
+
+# Clean iOS Cache
+delete ios/build/ModuleCache folder
