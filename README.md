@@ -1,6 +1,9 @@
 # SmartVoiceReact
 A smart app(v4.0) which can automatically recognize one's voice using react native.
 
+# How to Run
+run "react-native run-android" in the root folder.
+
 # About 404 Bug
 use react-native start<br>
 use npm instead of cnpm
