@@ -7,3 +7,6 @@ use npm instead of cnpm
 
 # Clean iOS Cache
 Delete ios/build/ModuleCache folder
+
+# Reference
+https://github.com/wenkesj/react-native-voice
